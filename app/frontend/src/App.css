@@ -1,0 +1,9 @@
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Remove default App centering */
+.App {
+    min-height: 100vh;
+}
